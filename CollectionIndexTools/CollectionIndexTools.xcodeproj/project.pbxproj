@@ -199,13 +199,17 @@
 				TargetAttributes = {
 					31EA84E21D41F61900EFFF0C = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 7QT42R489Z;
+						LastSwiftMigration = 0830;
 					};
 					31EA84F61D41F61900EFFF0C = {
 						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 0830;
 						TestTargetID = 31EA84E21D41F61900EFFF0C;
 					};
 					31EA85011D41F61900EFFF0C = {
 						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 0830;
 						TestTargetID = 31EA84E21D41F61900EFFF0C;
 					};
 				};
@@ -407,10 +411,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = 7QT42R489Z;
 				INFOPLIST_FILE = CollectionIndexTools/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = R.S.CollectionIndexTools;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -418,10 +425,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = 7QT42R489Z;
 				INFOPLIST_FILE = CollectionIndexTools/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = R.S.CollectionIndexTools;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -433,6 +443,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = R.S.CollectionIndexToolsTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CollectionIndexTools.app/CollectionIndexTools";
 			};
 			name = Debug;
@@ -445,6 +456,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = R.S.CollectionIndexToolsTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CollectionIndexTools.app/CollectionIndexTools";
 			};
 			name = Release;
@@ -456,6 +468,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = R.S.CollectionIndexToolsUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = CollectionIndexTools;
 			};
 			name = Debug;
@@ -467,6 +480,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = R.S.CollectionIndexToolsUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = CollectionIndexTools;
 			};
 			name = Release;
@@ -490,6 +504,7 @@
 				31EA850D1D41F61900EFFF0C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		31EA850E1D41F61900EFFF0C /* Build configuration list for PBXNativeTarget "CollectionIndexToolsTests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +513,7 @@
 				31EA85101D41F61900EFFF0C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		31EA85111D41F61900EFFF0C /* Build configuration list for PBXNativeTarget "CollectionIndexToolsUITests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +522,7 @@
 				31EA85131D41F61900EFFF0C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
