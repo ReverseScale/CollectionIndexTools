@@ -1,6 +1,6 @@
 # CollectionIndexTools
 
-![](https://img.shields.io/badge/platform-iOS-red.svg) ![](https://img.shields.io/badge/language-Objective--C-orange.svg) ![](https://img.shields.io/badge/download-3.81MB-brightgreen.svg
+![](https://img.shields.io/badge/platform-iOS-red.svg) ![](https://img.shields.io/badge/language-Swift-orange.svg) ![](https://img.shields.io/badge/download-3.81MB-brightgreen.svg
 ) ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
 
 相信你一定有想过给 Collection View 加一个类似 Table View 的索引条的想法，今天我就给你一个。
