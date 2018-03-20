@@ -7,7 +7,7 @@
 
 | 名称 |1.列表页 |2.展示页 |
 | ------------- | ------------- | ------------- |
-| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-13/49229440.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-13/87845745.jpg) |
+| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/18-3-20/23970127.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/18-3-20/66191.jpg) |
 | 描述 | 通过 storyboard 搭建基本框架 | 偷懒的展示页面 |
 
 ## Advantage 框架的优势
