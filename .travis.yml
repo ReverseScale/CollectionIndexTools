@@ -5,7 +5,7 @@ env:
   global:
     - LANG=en_US.UTF-8
     - LC_ALL=en_US.UTF-8
-    - XCODE_PROJECT=core/EFResume.xcodeproj
+    - XCODE_PROJECT=core/CollectionIndexTools/CollectionIndexTools.xcodeproj
   matrix:
     - SCHEME="EFResume"
 
