@@ -105,7 +105,7 @@ SOFTWARE.
 
 | 1.列表页 |2.展示页 |
 | ------------- | ------------- |
-| ![](http://og1yl0w9z.bkt.clouddn.com/18-3-20/23970127.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/18-3-20/66191.jpg) |
+| ![kEirwT.png](https://s2.ax1x.com/2019/01/23/kEirwT.png) | ![kEisTU.png](https://s2.ax1x.com/2019/01/23/kEisTU.png) |
 | 通过 storyboard 搭建基本框架 | 偷懒的展示页面 |
 
 ## 🤖 要求
