@@ -7,7 +7,7 @@ env:
     - LC_ALL=en_US.UTF-8
     - XCODE_PROJECT=core/CollectionIndexTools/CollectionIndexTools.xcodeproj
   matrix:
-    - SCHEME="EFResume"
+    - SCHEME="CollectionIndexTools"
 
 before_install:
   - gem install xcpretty --no-rdoc --no-ri --no-document --quiet
