@@ -11,7 +11,7 @@ I believe you must have thought about adding an index like Table View to Collect
 
 | 1.List page | 2.Show page |
 | ------------- | ------------- |
-| ![](https://imgchr.com/i/kEisTU) | ![](https://imgchr.com/i/kEirwT) |
+| ![](https://imgchr.com/i/kEisTU.png) | ![](https://imgchr.com/i/kEirwT.png) |
 | Building a basic framework through storyboard | Lazy presentation page |
 
 ## 🤖 Requirements
