@@ -115,7 +115,7 @@ open class CollectionViewIndex: UIControl {
     }
     
     func attributedStringForTitle(_ title: String) -> NSAttributedString {
-        return NSAttributedString(string: title, attributes: [NSFontAttributeName: font, NSForegroundColorAttributeName: UIColor.gray])
+        return NSAttributedString(string: title, attributes: [NSAttributedString.Key.font: font, NSAttributedString.Key.foregroundColor: UIColor.gray])
     }
     
     open override func beginTracking(_ touch: UITouch, with event: UIEvent?) -> Bool {

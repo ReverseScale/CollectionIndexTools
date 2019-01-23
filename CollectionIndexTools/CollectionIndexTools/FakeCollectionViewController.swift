@@ -38,7 +38,7 @@ class FakeCollectionViewController: UIViewController {
         return collectionViewIndex
     }()
     
-    func selectedIndexDidChange(_ collectionViewIndex: CollectionViewIndex) {
+    @objc func selectedIndexDidChange(_ collectionViewIndex: CollectionViewIndex) {
         title = collectionViewIndex.indexTitles[collectionViewIndex.selectedIndex]
     }
 
