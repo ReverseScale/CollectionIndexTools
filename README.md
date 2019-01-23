@@ -1,7 +1,10 @@
 # CollectionIndexTools
 
-![](https://img.shields.io/badge/platform-iOS-red.svg) ![](https://img.shields.io/badge/language-Swift-orange.svg) ![](https://img.shields.io/badge/download-3.81MB-brightgreen.svg
-) ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
+![](https://www.travis-ci.org/ReverseScale/CollectionIndexTools.svg?branch=master)
+![](https://img.shields.io/badge/platform-iOS-red.svg) 
+![](https://img.shields.io/badge/language-Swift-orange.svg) 
+![](https://img.shields.io/badge/download-3.81MB-brightgreen.svg) 
+![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
 
 [EN](#Requirements) | [中文](#中文说明)
 
