@@ -1,5 +1,5 @@
 osx_image: xcode10
-language: objective-c
+language: swift
 
 env:
   global:
